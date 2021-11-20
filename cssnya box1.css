@@ -1,0 +1,63 @@
+    .header1{
+        border: 1px solid; 
+        width: 65em; 
+        height: 47em; 
+        margin: auto;
+    }
+    .header2{
+        text-align: center; 
+        border: 1px solid;
+        padding-bottom: 2%;
+        background-color: #DCDCDC;
+    }
+    .inp{
+        width: 53em; 
+        border: 1px solid; 
+        height: 1.6em;
+    }
+  
+    .div1{
+        border: 1px solid;
+        width: 58.5em;
+        height: 7em;
+        background: #AEDD94;
+        margin-left: 5%;
+        margin-right: 5%;
+        margin-top: 5%;
+    }
+    .div2{
+        border: 1px solid;
+        width: 10em;
+        height: 10em;
+        background: #F4EB49;
+        margin-left: 5%;
+        margin-top: 5%;
+        float: left;
+    }
+    .div3{
+        border: 1px solid;
+        width: 45em;
+        height: 10em;
+        background: #FF6624;
+        margin-top: 5%;
+        margin-right: 5%;
+        float: right;
+    }
+    .div4{
+        border: 1px solid;
+        width: 10em;
+        height: 10em;
+        background: #F4EB49;
+        margin-left: 5%;
+        margin-top: 5%;
+        float: left;
+    }
+    .div5{
+        border: 1px solid;
+        width: 45em;
+        height: 10em;
+        background: #4DD7FA;
+        margin-left: 5%;
+        margin-top: 5%;
+        float: left;
+    }
